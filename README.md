@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 📫 How to reach me: ...
-[![gitlab](https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png)][1]
+[![gitlab](https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png)][1]
 [![linkedin]()][2]
 [![facebook]()][3]
 <!--
