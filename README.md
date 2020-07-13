@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+📫 How to reach me: ...
+[![gitlab](https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png)][1]
+[![linkedin]()][2]
+[![facebook]()][3]
 <!--
 **Angulo66/Angulo66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[1]: https://gitlab.com/Angulo66
+[2]: https://www.linkedin.com/in/helder-lopez-angulo-71428b158/
+[3]: https://www.facebook.com/helder.angulo/
