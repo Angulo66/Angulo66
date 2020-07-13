@@ -2,7 +2,7 @@
 
 📫 How to reach me: ...
 [![gitlab](https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png)][1]
-[![linkedin]()][2]
+[![linkedin](https://findicons.com/files/icons/2788/circle/128/linkedin.png)][2]
 [![facebook]()][3]
 <!--
 **Angulo66/Angulo66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
