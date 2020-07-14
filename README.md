@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-📫 How to reach me: ...
+-- 📫 How to reach me: ...
 
 [![gitlab](https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png)][1]
 [![linkedin](https://findicons.com/files/icons/2788/circle/128/linkedin.png)][2]
-[![facebook](https://lh3.googleusercontent.com/proxy/drYBneAO__K93krkrEUnEKgtBTO4GHBN2CNZlLueC4VjAfU74FTZBPUCAg6VNeDZBKOdpLSEO9meAF6ViaASx8p0Og1QewLa4KTPC9Zs1S1it-SMMluTPwejQ0OOGe2pAssPJtbgKOaIYhBHndYgs0ZNWIZ9xQ4czpM_KlNYAPHn8evZ4GiyPkK7PL0HzNSMWxLM6g)][3]
 <!--
 **Angulo66/Angulo66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +20,3 @@ Here are some ideas to get you started:
 -->
 [1]: https://gitlab.com/Angulo66
 [2]: https://www.linkedin.com/in/helder-lopez-angulo-71428b158/
-[3]: https://www.facebook.com/helder.angulo/
